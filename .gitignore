@@ -6,3 +6,4 @@
 
 # Don't ignore .bashrc
 !.bashrc
+!.config
